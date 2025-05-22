@@ -44,14 +44,6 @@ This plugin is private and not distributed via the WordPress Plugin Directory. I
 
 ---
 
-## Support
-
-For technical support, integration requests, or licensing information, contact:
-
-**vasp-support@yourdomain.com**
-
----
-
 ## License
 
 This plugin is proprietary. The source code is not publicly available or distributed.  
