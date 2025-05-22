@@ -47,4 +47,3 @@ This plugin is private and not distributed via the WordPress Plugin Directory. I
 ## License
 
 This plugin is proprietary. The source code is not publicly available or distributed.  
-All rights reserved © [Comsoftweb].
