@@ -80,7 +80,6 @@ Enable debug logging in the plugin settings. Logs are saved to `wp-content/debug
 
 ## Changelog
 
-See the full changelog in the `readme.txt` or plugin documentation.  
 Highlights from the latest versions include:
 
 - Enhanced address handling for KIOS orders
@@ -93,6 +92,5 @@ Highlights from the latest versions include:
 ## License
 
 This plugin is proprietary and not open-source.  
-All rights reserved © [Comsoftweb].
 
 Licensed under [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.txt)
